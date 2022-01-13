@@ -1,0 +1,19 @@
+{
+  "name": "repo-downloads",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.ts",
+  "scripts": {
+    "tscv": "tsc --version",
+    "tscinit": "tsc --init",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Henry",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  },
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
